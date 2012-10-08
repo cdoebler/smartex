@@ -8,6 +8,8 @@ SmartEx
 After stumbling upon [LakTEK's ExtractValues](https://github.com/laktek/extract-values),
 I thought about sharing my almost similar PHP-Version, that helped me a lot, some time ago.
 
+Licensed under MIT (see license.txt)
+
 
 #### Examples
 
